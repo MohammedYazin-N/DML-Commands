@@ -15,7 +15,7 @@ This project focuses on **Data Manipulation Language (DML) commands** in MySQL, 
 # Technologies Used:  
 - **Database:** MySQL  
 - **Query Language:** SQL  
-- **Tools:** MySQL Workbench / phpMyAdmin / Command Line Interface  
+- **Tools:** MySQL Workbench
 
 
 ## **Project Features:**  
@@ -23,7 +23,7 @@ This project focuses on **Data Manipulation Language (DML) commands** in MySQL, 
 ✅ **Update Data** – Modify existing records based on conditions.  
 ✅ **Delete Data** – Remove unnecessary records.  
 ✅ **Retrieve Data** – Use SQL queries to fetch, filter, and sort records.  
-✅ **Aggregation & Grouping** – Perform data analysis using `GROUP BY` and aggregate functions.  
+  
 
 
 ## **Conclusion:**  
